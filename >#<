@@ -1,0 +1,4 @@
+git branch -m main git-branch--m-main-<BRANCH>-git-fetch-origin-git-branch--u-origin/<BRANCH>-<BRANCH>-git-remote-set-head-origin--amain
+git fetch origin
+git branch -u origin/git-branch--m-main-<BRANCH>-git-fetch-origin-git-branch--u-origin/<BRANCH>-<BRANCH>-git-remote-set-head-origin--amain git-branch--m-main-<BRANCH>-git-fetch-origin-git-branch--u-origin/<BRANCH>-<BRANCH>-git-remote-set-head-origin--amain
+git remote set-head origin -q
